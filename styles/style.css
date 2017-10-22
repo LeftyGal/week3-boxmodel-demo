@@ -1,0 +1,28 @@
+ body {
+      color: gray;
+    }
+    h1:hover 
+    {
+      color:red;
+    }
+    
+    a:visited {
+      text-decoration: none
+    }
+    header {
+      width: 75%;
+      margin:auto;
+      background-color: black;
+        
+      
+    }
+    article {
+      width: 50%;
+      margin: auto;
+      background-color: beige;
+    }
+    
+    footer {
+      border:1px solid red;
+      border-radius:20px;
+    }
